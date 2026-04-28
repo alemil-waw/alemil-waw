@@ -41,4 +41,4 @@
 
 ---
 
-*💼 Currently exploring Senior Data Scientist opportunities in Energy/Industrial sector*
+*💼 Currently exploring Data Scientist opportunities in Energy/Industrial sector*
